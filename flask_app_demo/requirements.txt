@@ -1,0 +1,6 @@
+flask
+stemming
+numpy
+pandas
+scikit-learn
+xlsxwriter
