@@ -69,7 +69,7 @@ model = baseline_model()
 model.fit(X_train, y_train, validation_data=(X_test, y_test), epochs=3,
           batch_size=32, verbose=2)
 
-model.save('model.h5')
+model.save('./image_recognition_app/trained_model/model.h5')
 
 # Final eval
 scores = model.evaluate(X_test, y_test, verbose=0)
