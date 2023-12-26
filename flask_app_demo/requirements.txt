@@ -2,7 +2,5 @@ flask
 stemming
 numpy
 pandas
-sklearn
-io
-time
-zipfile
+scikit-learn
+xlsxwriter
