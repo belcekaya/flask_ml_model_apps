@@ -1,0 +1,8 @@
+flask
+stemming
+numpy
+pandas
+sklearn
+io
+time
+zipfile
